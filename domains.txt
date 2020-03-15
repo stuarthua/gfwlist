@@ -3,6 +3,8 @@
 
 !
 !--- HomePage: https://github.com/awesome-openwrt/gfwlist ---
+!--- Download-URL: https://raw.githubusercontent.com/awesome-openwrt/gfwlist/master/gfwlist.txt ---
+!--- CDN-URL: https://cdn.jsdelivr.net/gh/awesome-openwrt/gfwlist@latest/gfwlist.txt ---
 !
 
 
@@ -709,10 +711,12 @@
 ||fontawesome.com
 ||swiftypecdn.com
 
+
 !---AV---
 ||jable.tv
 ||cdnlab.live
 ||netflav.com
+
 
 !---Other---
 ||bandwagonhost.com
