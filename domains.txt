@@ -2,7 +2,7 @@
 
 
 !
-!--- HomePage: https://github.com/stuarthua/gfwlist ---
+!--- HomePage: https://github.com/awesome-openwrt/gfwlist ---
 !
 
 
@@ -558,7 +558,7 @@
 ||hayabusa.io
 
 
-!---巴哈姆特动画疯---
+!--- 巴哈姆特动画疯 ---
 ||gamer.com.tw
 ||bahamut.com.tw
 
@@ -572,7 +572,7 @@
 ||tvb.com
 
 
-!---部分美国电视台---
+!--- 部分美国电视台 ---
 ||abc.com
 ||amctv.com
 ||beinsportsconnect.net
@@ -611,6 +611,9 @@
 ||bitbucket.org
 
 
+!---Gitlab---
+||gitlab.com
+
 !---Travis CI---
 ||travis-ci.org
 ||travis-ci.com
@@ -622,10 +625,6 @@
 
 !---Gitbook---
 ||gitbook.com
-
-
-!---checkgfw---
-||checkgfw.com
 
 
 !---Raindrop.io---
@@ -647,17 +646,14 @@
 !||transifex.com
 
 
-!---Gitlab---
+!---Disqus---
 ||disqus.com
-
-
-!---Gitlab---
-||gitlab.com
 
 
 !---Steemit---
 ||steemit.com
 ||steemitwallet.com
+
 
 !---Medium---
 ||medium.com
@@ -667,7 +663,7 @@
 ||wikipedia.org
 
 
-!---第三方---
+!--- 一些第三方(必选) ---
 ||conviva.com
 ||scorecardresearch.com
 ||typekit.net
@@ -713,11 +709,9 @@
 ||fontawesome.com
 ||swiftypecdn.com
 
-!---AV - Jable---
+!---AV---
 ||jable.tv
 ||cdnlab.live
-
-!---AV - Netflav---
 ||netflav.com
 
 !---Other---

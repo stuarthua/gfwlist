@@ -67,7 +67,6 @@ cdn.seatguru.com
 cdninstagram.com
 cdnlab.live
 certificate-transparency.org
-checkgfw.com
 chrome.com
 chromecast.com
 chromeexperiments.com
