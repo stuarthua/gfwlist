@@ -24,4 +24,4 @@ git add .
 git commit -m "update by shell"
 git tag -a v1.0 -m "Release V1.0"
 git push origin master
-git push origin -tags
+git push origin v1.0
