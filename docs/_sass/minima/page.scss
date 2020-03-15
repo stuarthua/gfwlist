@@ -1,0 +1,26 @@
+/**
+ * Category
+ */
+
+
+/**
+ * Tag
+ */
+.tags {
+  font-size: 18px;
+  font-weight: bold;
+  margin:0 0 15px 0;
+}
+.tags li{
+  text-decoration: none;
+  list-style: none;
+  display: inline;
+  padding-right: 10px;
+}
+.tags li a{
+  text-decoration: none;
+  margin:0px;
+  height:40px;
+  line-height:40px;
+  text-align:center;
+}

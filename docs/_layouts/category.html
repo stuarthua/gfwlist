@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="category">
+
+  {%- if site.categories.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Categories" }}</h2>
+  <ul class="post-list">
+  {% for category in site.categories %}
+    <li>
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <div id="#{{ category_name | slugize }}"></div>
+      <h3 class="category-head">{{ category_name }}</h3>
+      {% for post in site.categories[category_name] %}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      {% endfor %}
+    </li>
+  {% endfor %}
+  </ul>
+  {%- endif -%}
+
+</div>
