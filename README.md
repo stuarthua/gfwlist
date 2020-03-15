@@ -18,6 +18,8 @@ Deploy:
 
 ## Desc
 
+> [jsdelivr - awesome-openwrt/gfwlist](https://www.jsdelivr.com/package/gh/awesome-openwrt/gfwlist)
+
 base64-gfwlist
 
 * Recommend: [https://cdn.jsdelivr.net/gh/awesome-openwrt/gfwlist@latest/gfwlist.txt](https://cdn.jsdelivr.net/gh/awesome-openwrt/gfwlist@latest/gfwlist.txt)
@@ -42,3 +44,4 @@ gfwlist-domains
 
 * [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 * [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq)
+* [JSDelivr](https://www.jsdelivr.com/)
