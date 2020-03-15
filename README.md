@@ -2,6 +2,10 @@
 
 > Awesome-OpenWrt gfwlist && its dnsmasq rules (with ipset or not)
 
+----
+
+[Wiki](https://github.com/awesome-openwrt/gfwlist/wiki)
+
 ## Usage
 
 Edit `domains.txt`, add or remove domains
