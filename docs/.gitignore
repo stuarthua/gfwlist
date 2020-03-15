@@ -1,9 +1,0 @@
-# files
-*.gem
-Gemfile.lock
-
-# dirs
-.sass-cache/
-.bundle/
-.jekyll-cache/
-_site/
