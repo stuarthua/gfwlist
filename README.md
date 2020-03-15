@@ -1,6 +1,6 @@
 # gfwlist
 
-> Awesome-OpenWrt gfwlist && its dnsmasq rules (whith ipset or not)
+> Awesome-OpenWrt gfwlist && its dnsmasq rules (with ipset or not)
 
 ## Usage
 
