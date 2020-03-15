@@ -17,7 +17,11 @@ echo -e "\nGen new gfwlist.txt... Done\n"
 ./scripts/gfwlist2dnsmasq.sh -p 7913 -o gfwlist_dnsmasq.txt
 ./scripts/gfwlist2dnsmasq.sh -p 7913 -s gfwlist -o gfwlist_dnsmasq_ipset.txt
 
-# git push
-# git add .
-# git commit -m "update from script"
-# git push origin master
+# push to github
+git tag -d v1.0
+git push origin :refs/tags/v1.0
+git add .
+git commit -m "update by shell"
+git tag -a v1.0 -m "Release V1.0"
+git push origin master
+git push origin -tags
