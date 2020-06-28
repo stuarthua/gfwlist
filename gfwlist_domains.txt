@@ -124,6 +124,7 @@ fbsbx.com
 fbworkmail.com
 feedburner.com
 firebaseio.com
+flutter.dev
 fontawesome.com
 footprint.net
 fox.com
